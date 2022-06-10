@@ -12,7 +12,7 @@
 - визуализировала продуктовые требования (mindmap и блок-схема),
 - выделила классы эквивалентности,
 - написала тест-кейс на логику работы интерфейса,завела баги в трекере.
-(ссылка на проект https://docs.google.com/document/d/1Lt6GANbFtjUj0hnRfcXZIon0uLQe0wTVBfacHVDmnp
+(проект https://docs.google.com/document/d/1Lt6GANbFtjUj0hnRfcXZIon0uLQe0wTVBfacHVDmnp
 U/edit?usp=sharing)
 
 2. На учебных материалах Яндекс.Маршруты:
@@ -22,7 +22,7 @@ U/edit?usp=sharing)
 баги в трекере,
 - с помощью Charles подменила запрос от backend, чтобы на frontend появился
 новый тип транспорта.
-(ссылка на проект https://docs.google.com/document/d/1fmR8oujHeslDss4siZpxRNm_aYWca11PvJMT3rF34A
+(проект https://docs.google.com/document/d/1fmR8oujHeslDss4siZpxRNm_aYWca11PvJMT3rF34A
 M/edit?usp=sharing)
 
 3. На учебных материалах Яндекс.Метро и Яндекс.Прилавок:
@@ -31,13 +31,13 @@ M/edit?usp=sharing)
 трекере,
 - составила чек-листы, протестировала API (использовала Postman) учебного
 сервиса Яндекс.Прилавок и завела баги в трекере.
-(ссылка на проект https://docs.google.com/document/d/1psDO-5iJBTOq3zXwohE18rAz3Al-DRD62d6-srbdUY8
+(проект https://docs.google.com/document/d/1psDO-5iJBTOq3zXwohE18rAz3Al-DRD62d6-srbdUY8
 /edit?usp=sharing)
 
 4. Основы баз данных:
 - сделала задачу по анализу логов через консоль,
 - сделала задачу по анализу данных из БД учебного сервиса.
-(ссылка на проект https://docs.google.com/document/d/1TqMIAwd0JNkaeqB4Qx7M1Vn8yX3mHskaf7Dski83h
+(проект https://docs.google.com/document/d/1TqMIAwd0JNkaeqB4Qx7M1Vn8yX3mHskaf7Dski83h
 Gg/edit?usp=sharing)
 
 5. Итоговый проект.
